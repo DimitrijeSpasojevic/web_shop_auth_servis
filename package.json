@@ -14,7 +14,7 @@
     "sequelize": "^6.9.0",
     "socket.io": "^4.4.0"
   },
-  "name": "skript-jezici-projekat",
+  "name": "web_shop_auth_servis",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DimitrijeSpasojevic/skript-jezici-projekat.git"
+    "url": "git+https://github.com/DimitrijeSpasojevic/web_shop_auth_servis"
   },
   "author": "Dimitrije Spasojevic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DimitrijeSpasojevic/skript-jezici-projekat/issues"
+    "url": "https://github.com/DimitrijeSpasojevic/web_shop_auth_servis/issues"
   },
-  "homepage": "https://github.com/DimitrijeSpasojevic/skript-jezici-projekat#readme",
+  "homepage": "https://github.com/DimitrijeSpasojevic/web_shop_auth_servis#readme",
   "description": "",
   "devDependencies": {
     "sequelize-cli": "^6.4.1"
