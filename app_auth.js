@@ -57,7 +57,7 @@ app.post('/login', (req, res) => {
 
 });
 
-app.listen({ port: 9000 }, async () => {
+app.listen({ port: process.env.PORT || 9000 }, async () => {
     await sequelize.authenticate();
     console.log(`Pokrenut na portu 9000 auth servis`)
 });
